@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Doe",
+        "position": "President"
+    },
+    {
+        "name": "Jane Smith",
+        "position": "Vice President"
+    },
+    {
+        "name": "Alice Johnson",
+        "position": "Secretary"
+    }
+]
